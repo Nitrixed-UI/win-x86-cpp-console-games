@@ -27,7 +27,7 @@ This repository contains the following mini games:
 
 ## Getting Started
 
-Simple! Dobble click the `.exe` file. 😀
+Simple! Double click the `.exe` file. 😀
 
 ## Contact
 
